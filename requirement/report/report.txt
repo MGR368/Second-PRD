@@ -8,7 +8,7 @@ SUBMISSION DEADLINE: AUGUST 5, 2026 — 6:00 PM
 
 ============================================================
 
-SL. NO.:1
+SL. NO.:01
 NAME:M.Mani Geethika
 EMAIL:manigeethikareddy673@gmail.com
 REPOSITORY URL:https://github.com/MGR368/Second-PRD/blob/main/requirement/src/main.java
@@ -25,7 +25,7 @@ FINAL STATUS:Completed
 
 ============================================================
 
-SL. NO.: 01
+SL. NO.: 02
 NAME:    KALITHISWARAN S
 EMAIL: kalithisvaran@gmail.com
 REPOSITORY URL:https://github.com/Kalithiswaran/First-PRD.git
@@ -41,3 +41,124 @@ SUBMISSION TIME: 7:00 pm
 FINAL STATUS:  COMPLETED
 
 ============================================================
+
+SL. NO.: 03
+NAME : Anburaj S
+EMAIL: anbu88628@gmail.com
+REPOSITORY URL: https://github.com/Anbu0077/First-PRD.git
+ASSIGNED REQUIREMENT NUMBER: 07
+PROJECT TITLE: Menu-Based Operator Explorer
+REQUIRED FILES STATUS: Completed
+HARD-CODED VALUES STATUS: Completed
+RUNTIME INPUT STATUS: Completed
+PROGRAM STATUS: Completed
+OUTPUT STATUS: Completed
+EXPLANATION STATUS: Completed
+SUBMISSION TIME: 7:30 PM
+FINAL STATUS: Completed
+
+============================================================
+
+SL. NO.:04
+NAME: Duvvuru Sumaja
+EMAIL: duvvurusumaja@gmail.com
+REPOSITORY URL: https://github.com/Sumaja-Duvvuru/First-PRD
+ASSIGNED REQUIREMENT NUMBER: 3
+PROJECT TITLE: Mock Test Attempt Manager
+REQUIRED FILES STATUS: Completed
+HARD-CODED VALUES STATUS: Completed
+RUNTIME INPUT STATUS: Completed
+PROGRAM STATUS: Completed
+OUTPUT STATUS: Completed
+EXPLANATION STATUS: Completed
+SUBMISSION TIME: 7:30
+FINAL STATUS: Completed
+
+============================================================
+
+SL. NO.: 05
+NAME:P.Samatha
+EMAIL: samathasam708@gmail.com
+REPOSITORY URL:https://github.com/samatha-078/First-PRD
+ASSIGNED REQUIREMENT NUMBER:8
+PROJECT TITLE: Interview Preparation Progress Checker
+REQUIRED FILES STATUS: completed
+HARD-CODED VALUES STATUS:completed
+RUNTIME INPUT STATUS:completed
+PROGRAM STATUS:completed
+OUTPUT STATUS:completed
+EXPLANATION STATUS: completed
+SUBMISSION TIME:7:40
+FINAL STATUS: completed
+
+============================================================
+
+SL. NO.: 06
+NAME: Lahari M
+EMAIL: laharimandli@gmail.com
+REPOSITORY URL:  https://github.com/laharimandli/Second-PRD
+ASSIGNED REQUIREMENT NUMBER:  02
+PROJECT TITLE: Weekly Coding Practice Tracker
+REQUIRED FILES STATUS: Completed
+HARD-CODED VALUES STATUS: Completed
+RUNTIME INPUT STATUS: Completed
+PROGRAM STATUS: Completed
+OUTPUT STATUS: Completed
+EXPLANATION STATUS: Completed
+SUBMISSION TIME: Completed
+FINAL STATUS: Completed
+
+============================================================
+
+SL. NO.: 07
+NAME : Indrakumar.M
+EMAIL: indrakumar.m2005@gmail.com
+REPOSITORY URL: https://github.com/INDRAKUMAR2005/First---PRD.git
+ASSIGNED REQUIREMENT NUMBER: 15
+PROJECT TITLE: second PRD/Learning-Streak-Productivity-Tracker
+REQUIRED FILES STATUS: Completed
+HARD-CODED VALUES STATUS: Completed
+RUNTIME INPUT STATUS: Completed
+PROGRAM STATUS: Absent
+OUTPUT STATUS: Completed
+EXPLANATION STATUS: Completed
+SUBMISSION TIME: 7 30 PM
+FINAL STATUS: Completed
+
+============================================================
+
+SL. NO.: 08
+NAME: Praveen Pujari
+EMAIL: praveenpujari874@gmai.com
+REPOSITORY URL:  https://github.com/Praveen0214-git/Second-PRD.git
+ASSIGNED REQUIREMENT NUMBER: 6
+PROJECT TITLE: Attendance and Consistency Tracker
+REQUIRED FILES STATUS: COMPLETE
+HARD-CODED VALUES STATUS: VERIFIED
+RUNTIME INPUT STATUS: NOT USED
+PROGRAM STATUS: WORKING
+OUTPUT STATUS: UPLOADED
+EXPLANATION STATUS: 
+SUBMISSION TIME: 7 : 57 PM
+FINAL STATUS: COMPLETED
+
+============================================================
+
+SL. NO.: 09
+NAME : Ambati.Sunil
+EMAIL: sunilambati.003@gmail.com
+REPOSITORY URL: https://github.com/Sunilambati/First-PRD.git
+ASSIGNED REQUIREMENT NUMBER: 14
+PROJECT TITLE: second PRD/Course Selection Adviser
+REQUIRED FILES STATUS: Completed
+HARD-CODED VALUES STATUS: Completed
+RUNTIME INPUT STATUS: Completed
+PROGRAM STATUS: Completed
+OUTPUT STATUS: Completed
+EXPLANATION STATUS: Completed
+SUBMISSION TIME: 8:00 PM
+FINAL STATUS: Completed
+
+============================================================
+
+
