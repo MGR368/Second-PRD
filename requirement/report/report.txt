@@ -53,7 +53,7 @@ HARD-CODED VALUES STATUS: Completed
 RUNTIME INPUT STATUS: Completed
 PROGRAM STATUS: Completed
 OUTPUT STATUS: Completed
-EXPLANATION STATUS: Completed
+EXPLANATION STATUS:  NO
 SUBMISSION TIME: 7:30 PM
 FINAL STATUS: Completed
 
@@ -87,7 +87,7 @@ HARD-CODED VALUES STATUS:completed
 RUNTIME INPUT STATUS:completed
 PROGRAM STATUS:completed
 OUTPUT STATUS:completed
-EXPLANATION STATUS: completed
+EXPLANATION STATUS: No
 SUBMISSION TIME:7:40
 FINAL STATUS: completed
 
@@ -104,7 +104,7 @@ HARD-CODED VALUES STATUS: Completed
 RUNTIME INPUT STATUS: Completed
 PROGRAM STATUS: Completed
 OUTPUT STATUS: Completed
-EXPLANATION STATUS: Completed
+EXPLANATION STATUS: No
 SUBMISSION TIME: Completed
 FINAL STATUS: Completed
 
@@ -138,7 +138,7 @@ HARD-CODED VALUES STATUS: VERIFIED
 RUNTIME INPUT STATUS: NOT USED
 PROGRAM STATUS: WORKING
 OUTPUT STATUS: UPLOADED
-EXPLANATION STATUS: 
+EXPLANATION STATUS: No
 SUBMISSION TIME: 7 : 57 PM
 FINAL STATUS: COMPLETED
 
@@ -155,10 +155,42 @@ HARD-CODED VALUES STATUS: Completed
 RUNTIME INPUT STATUS: Completed
 PROGRAM STATUS: Completed
 OUTPUT STATUS: Completed
-EXPLANATION STATUS: Completed
+EXPLANATION STATUS: No
 SUBMISSION TIME: 8:00 PM
 FINAL STATUS: Completed
 
 ============================================================
 
+SL. NO.: 10
+NAME: Susmitha.C
+EMAIL:susmithachittiboyina5@gmail.com
+REPOSITORY URL:https://github.com/susmithachittiboyina/Second-PRD
+ASSIGNED REQUIREMENT NUMBER:04
+PROJECT TITLE:Personal Expense and Savings Analyser
+REQUIRED FILES STATUS:partially completed
+HARD-CODED VALUES STATUS:Completed
+RUNTIME INPUT STATUS:Completed
+PROGRAM STATUS:Completed
+OUTPUT STATUS:Completed
+EXPLANATION STATUS:No
+SUBMISSION TIME:Completed
+FINAL STATUS:Completed
 
+============================================================
+
+SL. NO.: 11
+NAME : Sula Nithin Kumar
+EMAIL : sulanithinkumar@gmail.com
+REPOSITORY URL : https://github.com/sulanithinkumar04/Second-PRD
+ASSIGNED REQUIREMENT NUMBER: 12
+PROJECT TITLE: Product Purchase and Discount Calculator
+REQUIRED FILES STATUS: Incompleted
+HARD-CODED VALUES STATUS: completed
+RUNTIME INPUT STATUS: Completed
+PROGRAM STATUS: Completed
+OUTPUT STATUS: Completed
+EXPLANATION STATUS: No
+SUBMISSION TIME : 8:00PM
+FINAL STATUS :Incompleted
+
+============================================================
