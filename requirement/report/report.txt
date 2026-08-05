@@ -1,0 +1,43 @@
+TEAM NUMBER:10
+
+TEAM LEADER NAME:M.Mani Geethika
+
+TOTAL TEAM MEMBERS:13
+
+SUBMISSION DEADLINE: AUGUST 5, 2026 — 6:00 PM
+
+============================================================
+
+SL. NO.:1
+NAME:M.Mani Geethika
+EMAIL:manigeethikareddy673@gmail.com
+REPOSITORY URL:https://github.com/MGR368/Second-PRD/blob/main/requirement/src/main.java
+ASSIGNED REQUIREMENT NUMBER:10
+PROJECT TITLE:Health and Fitness Status Calculator
+REQUIRED FILES STATUS:yes
+HARD-CODED VALUES STATUS:Completed
+RUNTIME INPUT STATUS:Completed
+PROGRAM STATUS:Completed
+OUTPUT STATUS:
+EXPLANATION STATUS:yes
+SUBMISSION TIME:
+FINAL STATUS:Completed
+
+============================================================
+
+SL. NO.:
+NAME:
+EMAIL:
+REPOSITORY URL:
+ASSIGNED REQUIREMENT NUMBER:
+PROJECT TITLE:
+REQUIRED FILES STATUS:
+HARD-CODED VALUES STATUS:
+RUNTIME INPUT STATUS:
+PROGRAM STATUS:
+OUTPUT STATUS:
+EXPLANATION STATUS:
+SUBMISSION TIME:
+FINAL STATUS:
+
+============================================================

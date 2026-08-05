@@ -1,0 +1,30 @@
+Student Name: M.Mani Geethika
+Email: manigeethikareddy673@gmail.com
+Team Number:10
+GitHub Username:MGR368
+Assigned Requirement Number:10
+Project Title: Health and Fitness Status Calculator
+
+The project is a Health and Fitness Status Calculator. It is a Java program that calculates the Body Mass Index (BMI) of a person and displays their health and fitness status.
+I selected the hardcode values of Abhi's height, weight, age, daily activity hours, water intake in litres, and sleep hours.  
+After  i use the datatypes string,double and int  to store the values in the variables name,age,height,weight,dailyactivityhours,waterintakeinlitres,sleephours
+Then i expected the output  in the below format
+HEALTH AND FITNESS REPORT
+
+Name: Abhi
+BMI: 18.892733564013845
+BMI Category: Normal
+
+Activity Status: Good
+Water Intake Status: Good
+Sleep Status: Healthy
+
+Overall Fitness Status: HEALTHY
+Message: Continue maintaining the same routine.
+I planned to use arithmetic operators to assign,to calculate and display the final values.
+I used assignment operators  and relational operators in the condition statements to check the conditions.
+The logical and ternary operators are mainly used to check dailyactivityhours,waterintakeinlitres,sleephours.
+I used if else if else condition statements to check the conditions.
+And I used while loop statement to find the overall fitness status.
+The reason for selecting the while loop is maily i know the condition but i dont know the exact number of times the loop will run.
+that is why i used the while loop and inside if statement i used the relational operators to check the conditions.
