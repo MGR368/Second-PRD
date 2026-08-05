@@ -194,3 +194,20 @@ SUBMISSION TIME : 8:00PM
 FINAL STATUS :Incompleted
 
 ============================================================
+
+SL. NO.:12
+NAME:K.Bhanu prakash reddy
+EMAIL:reddybhanuprakash77@gmail.com
+REPOSITORY URL:https://github.com/Bhanu509/SECOND-PRD
+ASSIGNED REQUIREMENT NUMBER:5
+PROJECT TITLE:Student Marks and Grade Report
+REQUIRED FILES STATUS :not completed
+HARD-CODED VALUES STATUS:completed
+RUNTIME INPUT STATUS:complete
+PROGRAM STATUS:completed
+OUTPUT STATUS:no
+EXPLANATION STATUS:not completed
+SUBMISSION TIME:7:50
+FINAL STATUS:not complete
+
+============================================================
