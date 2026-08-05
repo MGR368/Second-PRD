@@ -20,7 +20,7 @@ RUNTIME INPUT STATUS:Completed
 PROGRAM STATUS:Completed
 OUTPUT STATUS:
 EXPLANATION STATUS:yes
-SUBMISSION TIME:
+SUBMISSION TIME: 7:47pm
 FINAL STATUS:Completed
 
 ============================================================
