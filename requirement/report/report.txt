@@ -184,14 +184,14 @@ EMAIL : sulanithinkumar@gmail.com
 REPOSITORY URL : https://github.com/sulanithinkumar04/Second-PRD
 ASSIGNED REQUIREMENT NUMBER: 12
 PROJECT TITLE: Product Purchase and Discount Calculator
-REQUIRED FILES STATUS: Incompleted
+REQUIRED FILES STATUS: completed
 HARD-CODED VALUES STATUS: completed
 RUNTIME INPUT STATUS: Completed
 PROGRAM STATUS: Completed
 OUTPUT STATUS: Completed
-EXPLANATION STATUS: No
+EXPLANATION STATUS: Completed
 SUBMISSION TIME : 8:00PM
-FINAL STATUS :Incompleted
+FINAL STATUS :completed
 
 ============================================================
 
