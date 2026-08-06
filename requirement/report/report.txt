@@ -167,7 +167,7 @@ EMAIL:susmithachittiboyina5@gmail.com
 REPOSITORY URL:https://github.com/susmithachittiboyina/Second-PRD
 ASSIGNED REQUIREMENT NUMBER:04
 PROJECT TITLE:Personal Expense and Savings Analyser
-REQUIRED FILES STATUS:partially completed
+REQUIRED FILES STATUS:completed
 HARD-CODED VALUES STATUS:Completed
 RUNTIME INPUT STATUS:Completed
 PROGRAM STATUS:Completed
@@ -201,30 +201,30 @@ EMAIL:reddybhanuprakash77@gmail.com
 REPOSITORY URL:https://github.com/Bhanu509/SECOND-PRD
 ASSIGNED REQUIREMENT NUMBER:5
 PROJECT TITLE:Student Marks and Grade Report
-REQUIRED FILES STATUS :not completed
+REQUIRED FILES STATUS : completed
 HARD-CODED VALUES STATUS:completed
 RUNTIME INPUT STATUS:complete
 PROGRAM STATUS:completed
-OUTPUT STATUS:no
-EXPLANATION STATUS:not completed
-SUBMISSION TIME:7:50
-FINAL STATUS:not complete
+OUTPUT STATUS:Completed
+EXPLANATION STATUS:completed
+SUBMISSION TIME: 
+FINAL STATUS: complete
 
 ============================================================
 
 SL.No.13
 NAME : Alampur sofiya
 EMAIL : alampursofiya@gmail.com
-REPOSITORY URL : Nil
-ASSIGNED REQUIREMENT NUMBER: 1
-PROJECT TITLE:
-REQUIRED FILES STATUS: Not completed
-HARD-CODED VALUES STATUS:Not completed
-RUNTIME INPUT STATUS: Not Completed
-PROGRAM STATUS: Not Completed
-OUTPUT STATUS:Not  Completed
-EXPLANATION STATUS: Not Completed
-SUBMISSION TIME : 
-FINAL STATUS :Not completed
+REPOSITORY URL : https://github.com/ummehani5454/Second_PRD
+ASSIGNED REQUIREMENT NUMBER: 10 
+PROJECT TITLE: Health and Fitness status Calculator
+REQUIRED FILES STATUS: completed
+HARD-CODED VALUES STATUS: completed
+RUNTIME INPUT STATUS: Completed
+PROGRAM STATUS: Completed
+OUTPUT STATUS: Completed
+EXPLANATION STATUS: Completed
+SUBMISSION TIME : 8:13
+FINAL STATUS :completed
 
 ============================================================
