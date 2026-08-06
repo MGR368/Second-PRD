@@ -211,3 +211,20 @@ SUBMISSION TIME:7:50
 FINAL STATUS:not complete
 
 ============================================================
+
+SL.No.13
+NAME : Alampur sofiya
+EMAIL : alampursofiya@gmail.com
+REPOSITORY URL : Nil
+ASSIGNED REQUIREMENT NUMBER: 1
+PROJECT TITLE:
+REQUIRED FILES STATUS: Not completed
+HARD-CODED VALUES STATUS:Not completed
+RUNTIME INPUT STATUS: Not Completed
+PROGRAM STATUS: Not Completed
+OUTPUT STATUS:Not  Completed
+EXPLANATION STATUS: Not Completed
+SUBMISSION TIME : 
+FINAL STATUS :Not completed
+
+============================================================
