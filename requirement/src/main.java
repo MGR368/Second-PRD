@@ -4,13 +4,13 @@ public class main {
     public static void main(String[] args) {
 
         // Person profile details
-        String name = "lavanya";
+        String name = "Abhi";
         double heightinmeters = 1.70;
         double weightinkgs = 54.6;
         int age = 21;
         int dailyactivityhours = 2;
         int waterintakeinlitres = 3;
-        int sleephours = 6;
+        int sleephours = 8;
 
         //Calculate BMI
         double bmi = (double) weightinkgs / (heightinmeters * heightinmeters);
